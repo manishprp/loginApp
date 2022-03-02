@@ -1,0 +1,17 @@
+<resources>
+	<string name="app_name">loginApp</string>
+	<string name="action_settings">Settings</string>
+	<string name="LoginTextView">Login</string>
+	<string name="DontHaveAccountTextView">Dont have an account?</string>
+	<string name="CreateYourAccountTextView"> Create your account</string>
+	<string name="EnterUserNameTextView">Enter Username</string>
+	<string name="ForgotPasswordTextView">Forgot Password?</string>
+	<string name="EnterPasswordTextView">Enter Password</string>
+	<string name="OrLoginWithTextView">or Login with</string>
+	<string name="RegisterTextView">Register</string>
+	<string name="AlreadyHaveAnAccount">Already have an account?</string>
+	<string name="LoginYourAccount"> Login your account</string>
+	<string name="EnterNameOfUser">Enter Name of User</string>
+	<string name="EnterEmailAddress">Enter Email Address</string>
+	<string name="OrRegisterWith">or Register with</string>
+</resources>
